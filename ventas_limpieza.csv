@@ -1,0 +1,19 @@
+cliente,categoria,monto,fecha
+Ana,Electrónica,1200.50,2025-08-01
+Luis,Hogar,350.00,2025-08-02
+Ana,Hogar,199.99,2025-08-05
+Mia,Electrónica,800,2025-08-03
+Luis,Deportes,150.25,2025-08-04
+ana,Electrónica,1200.50,2025-08-01    
+Luis ,Hogar, ,2025-08-02              
+Mia,Electronica,800,2025-08-03        
+Pedro, Deportes, -50,2025-08-06       
+Carla,Hogar,250.00,2025-08-07
+ ,Hogar,300,2025-08-08                
+Luis,Deportes,150.25,2025-08-04       
+Mia,Electrónica,  ,2025-08-09          
+Ana, Hogar,199.99,2025-08-05          
+Pedro,Deportes,200,2025-08-10
+Luz,Electrónica,100.50,2025-08-11
+Luis,Hogar,350.00,2025-08-02          
+Mia,Electrónica,800,2025-08-03 

@@ -1,0 +1,6 @@
+cliente,categoria,monto,fecha,monto_redondeado,rango_venta
+Ana,Electrónica,1200.5,2025-08-01,1200.5,Alto
+Luis,Hogar,350.0,2025-08-02,350.0,Alto
+Ana,Hogar,199.99,2025-08-05,199.99,Medio
+Mia,Electrónica,800.0,2025-08-03,800.0,Alto
+Luis,Deportes,150.25,2025-08-04,150.25,Medio

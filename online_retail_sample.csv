@@ -1,0 +1,21 @@
+InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country
+536365,85123A,White Hanging Heart ,6,01/12/2010 08:26,2.55,17850,United Kingdom
+536365,71053,White Metal Lantern,6,01/12/2010 08:26,3.39,17850,United Kingdom
+536365,84406B,Antique Silver Clock ,8,01/12/2010 08:26,2.75,17850,United Kingdom
+536366,84406B,Antique Silver Clock ,2,01/12/2010 08:28,2.75,,United Kingdom
+536367,85123A,White Hanging Heart, -6,01/12/2010 08:34,2.55,13047,United Kingdom
+536368,22745,Set of 3 Boxes, 3,2010-12-01 09:00:00,6.95,12583,United Kingdom
+536369,21749,Party Bunting ,6,01/12/2010 09:20,1.85,17850,France
+536370,22633,Hand Painted Bowl ,2,12/01/2010 09:35,4.25,12583,United Kingdom
+536371,84029G,Bathroom Blush ,1,01/12/2010 09:56,4.25,13047,United Kingdom
+536372,22632,Bathroom Mirror,3,2010/12/01 10:05,3.75,12583,United Kingdom
+536373,22423,USB Charging Cable,5,01-12-2010 10:15,5.99,13047,United Kingdom
+536374,84029G,Bathroom Blush ,2,01/12/2010 10:25,4.25,,"United Kingdom"
+536375,22960,Card Holder ,4,01/12/2010 11:00,1.95,17850,Germany
+536376,22745,Set of 3 Boxes, 2,01/12/2010 11:30,6.95,12583,United Kingdom
+536377,21749,Party Bunting ,3,01/12/2010 12:00,1.85,17850,United Kingdom
+536378,22633,Hand Painted Bowl ,1000,01/12/2010 12:15,4.25,12583,United Kingdom
+536379,22423,USB Charging Cable,0,01/12/2010 12:30,5.99,13047,United Kingdom
+536380,22960,Card Holder ,-1,01/12/2010 12:50,1.95,17850,France
+536381,21749, Party Bunting,2,01/12/2010 13:10,1.85,,United Kingdom
+536382,22633,Hand Painted Bowl ,1,01/12/2010 13:30,NA,12583,United Kingdom
