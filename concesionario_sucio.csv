@@ -1,0 +1,401 @@
+cliente,vehiculo,marca,anio,precio,concesionario
+sofía castro,Mustang,Hnda,2005,-18841,Concesionario Sur
+camilo ordóñez,Civic,Chevrolet,2011,-7544,Concesionario Andino
+carlos díaz,Sentra,HONDA,2022,-17102,Concesionario Sur
+camilo ordóñez,Hilux,Nissan,2021,10268,Concesionario Norte
+juan pérez,Mazda 3,Toyota,2022,-4874,Concesionario Norte
+sofía castro,Clio,Chevrolet,2014,-9744,Concesionario Central
+juan pérez,Civic,Nissan,2019,-17567,Concesionario Central
+camilo ordóñez,Ranger,Renault,2015,-12432,Concesionario Central
+juan pérez,Corolla,Renault,2013,-17726,Concesionario Norte
+laura torres,Ranger,Toyota,2014,-5823,Concesionario Andino
+miguel ángel,Hilux,Nissan,2007,-19722,consesionario central
+camilo ordóñez,Mazda 3,Mazda,2023,29200,Concesionario Sur
+camilo ordóñez,Ranger,Toyta,2016,19209,Concesionario Oriental
+carlos díaz,CX5,Kia,2018,-2748,Concesionario Sur
+sofía castro,Mazda 3,Nissan,2019,15243,Concesionario Norte
+andrés ramírez,Mazda 3,Toyota,1995,27427,Concesionario Sur
+sofía castro,Mazda 3,Hnda,2020,18283,Concesionario Sur
+pedro ruiz,Civic,Chevrolet,2021,-18639,consesionario central
+sofía castro,Mazda 3,Ford,2024,-10556,Concesionario Andino
+maría gómez,Clio,Mazda,2015,22919,Concesionario Oriental
+ana lópez,Mustang,Honda,2007,-3407,Concesionario Andino
+miguel ángel,Kia Rio,Chevrolet,2015,12921,C. Central
+sofía castro,Ranger,Mazda,2013,-6930,Concesionario Oriental
+pedro ruiz,Mustang,Toyta,2010,26265,Concesionario Oriental
+camilo ordóñez,Sentra,Nissan,1995,33482,Concesionario Andino
+pedro ruiz,Corolla,Renault,2012,-8322,Concesionario Norte
+carlos díaz,Mazda 3,Toyota,2018,31915,Concesionario Sur
+ana lópez,CX5,TOYOTA,2013,46444,Concesionario Andino
+carlos díaz,Kia Rio,Toyta,2007,-6916,consesionario central
+pedro ruiz,Ranger,Chevrolet,2017,-15822,Concesionario Norte
+ana lópez,Mazda 3,Mazda,2011,-9802,Concesionario Norte
+andrés ramírez,Corolla,Ford,2010,-1326,Concesionario Andino
+carlos díaz,Sentra,Nissan,2011,-7325,Concesionario Sur
+ana lópez,Sentra,Mazda,2005,-13859,Concesionario Central
+ana lópez,Civic,Renault,2019,-18976,Concesionario Andino
+miguel ángel,Sentra,Kia,2023,-2424,Concesionario Sur
+andrés ramírez,Clio,Toyota,2035,-19562,Concesionario Andino
+carlos díaz,Hilux,Nissan,2013,43896,Concesionario Norte
+sofía castro,Kia Rio,Hnda,2017,48601,Concesionario Sur
+ana lópez,Ranger,HONDA,2017,22909,Concesionario Andino
+sofía castro,Civic,Renault,1995,23559,consesionario central
+maría gómez,Civic,HONDA,2008,-5638,Concesionario Norte
+laura torres,Civic,HONDA,2010,-8158,Concesionario Andino
+andrés ramírez,Corolla,Mazda,1995,-17708,Concesionario Sur
+sofía castro,Civic,Toyota,2023,22401,Concesionario Andino
+camilo ordóñez,Civic,Nissan,2022,26007,Concesionario Norte
+miguel ángel,Ranger,Mazda,2007,39654,Concesionario Central
+sofía castro,Kia Rio,Nissan,2014,19308,consesionario central
+pedro ruiz,Clio,Honda,2021,37703,Concesionario Sur
+laura torres,Clio,Toyta,2035,-19326,Concesionario Norte
+juan pérez,CX5,Kia,2019,47655,C. Central
+laura torres,Corolla,Chevrolet,2020,-17182,C. Central
+juan pérez,Hilux,Renault,2015,-11024,consesionario central
+juan pérez,Civic,Hnda,2024,49068,C. Central
+laura torres,Ranger,Chevrolet,2023,-7292,consesionario central
+maría gómez,Sentra,Kia,2009,27350,Concesionario Norte
+sofía castro,Corolla,Mazda,2020,-6965,Concesionario Central
+juan pérez,Corolla,Kia,2024,-5443,Concesionario Sur
+juan pérez,Mustang,Ford,2013,-4361,Concesionario Sur
+laura torres,CX5,Renault,2013,8446,Concesionario Oriental
+laura torres,CX5,Chevrolet,2035,10573,Concesionario Norte
+andrés ramírez,Kia Rio,Toyta,2022,-3036,Concesionario Oriental
+andrés ramírez,Hilux,Renault,2008,-16169,Concesionario Norte
+laura torres,Sentra,Mazda,2019,-1232,C. Central
+camilo ordóñez,Kia Rio,Chevrolet,2025,38277,Concesionario Andino
+carlos díaz,Clio,Chevrolet,2019,49150,Concesionario Sur
+juan pérez,Sentra,HONDA,2018,22172,Concesionario Central
+miguel ángel,Mazda 3,Hnda,2013,-5887,Concesionario Andino
+sofía castro,Civic,Renault,2010,-5797,Concesionario Andino
+laura torres,Ranger,Chevrolet,2016,-18929,C. Central
+andrés ramírez,Ranger,Nissan,2011,10405,C. Central
+ana lópez,Corolla,Renault,2035,13749,Concesionario Norte
+sofía castro,Hilux,TOYOTA,2013,-16773,Concesionario Andino
+ana lópez,Ranger,Kia,2014,-16787,Concesionario Sur
+carlos díaz,Hilux,Kia,2016,-6993,Concesionario Sur
+ana lópez,Clio,Honda,2011,-12186,Concesionario Oriental
+laura torres,Clio,Chevrolet,2025,32883,Concesionario Norte
+carlos díaz,Mazda 3,Toyota,2013,-14936,Concesionario Oriental
+andrés ramírez,Mazda 3,Nissan,2035,-18280,Concesionario Norte
+sofía castro,Mustang,Mazda,2008,-7269,consesionario central
+maría gómez,Mazda 3,HONDA,2020,42014,Concesionario Oriental
+andrés ramírez,Civic,Renault,2022,20168,Concesionario Andino
+laura torres,Mustang,Mazda,2020,-19876,Concesionario Oriental
+juan pérez,Corolla,Honda,2007,-17126,Concesionario Andino
+ana lópez,Civic,Nissan,2019,12383,C. Central
+maría gómez,CX5,TOYOTA,2022,44182,Concesionario Andino
+laura torres,Hilux,Kia,2016,39253,Concesionario Oriental
+carlos díaz,Kia Rio,Kia,2023,-14802,Concesionario Norte
+juan pérez,Mazda 3,TOYOTA,2025,-4068,Concesionario Sur
+miguel ángel,Civic,Honda,2018,-17785,Concesionario Sur
+carlos díaz,Mustang,Kia,2024,-1228,Concesionario Sur
+camilo ordóñez,Sentra,Mazda,2022,13425,Concesionario Andino
+miguel ángel,Mazda 3,HONDA,2020,-9659,Concesionario Central
+laura torres,Mazda 3,Chevrolet,2018,-15621,Concesionario Andino
+camilo ordóñez,Mustang,Nissan,2016,-4705,Concesionario Andino
+pedro ruiz,Corolla,Renault,2007,30158,Concesionario Oriental
+camilo ordóñez,Ranger,Renault,2010,-6948,Concesionario Oriental
+camilo ordóñez,Sentra,Chevrolet,2015,-14092,Concesionario Sur
+andrés ramírez,CX5,Mazda,2025,48967,Concesionario Oriental
+camilo ordóñez,Mustang,Renault,2017,-6177,Concesionario Oriental
+maría gómez,Kia Rio,Renault,2024,33903,Concesionario Oriental
+ana lópez,Ranger,Kia,2035,35805,Concesionario Norte
+ana lópez,Mazda 3,Ford,2011,-9622,Concesionario Oriental
+camilo ordóñez,Clio,Mazda,2024,39989,Concesionario Sur
+juan pérez,Kia Rio,Kia,2006,-19617,Concesionario Norte
+laura torres,Civic,Ford,2021,-13636,Concesionario Norte
+camilo ordóñez,Clio,Honda,2018,-13388,C. Central
+miguel ángel,Corolla,Nissan,2025,33299,Concesionario Sur
+camilo ordóñez,Clio,Ford,1995,-1917,consesionario central
+ana lópez,Corolla,Honda,2006,48814,Concesionario Sur
+ana lópez,Civic,Hnda,2005,-15924,Concesionario Norte
+carlos díaz,Ranger,Chevrolet,2022,-1690,Concesionario Andino
+pedro ruiz,Sentra,Renault,2020,-1807,Concesionario Andino
+ana lópez,Mazda 3,Nissan,2009,37937,Concesionario Sur
+ana lópez,Mazda 3,Mazda,2012,-2224,Concesionario Oriental
+camilo ordóñez,Hilux,Ford,2008,-1184,Concesionario Oriental
+laura torres,Mustang,Honda,2018,-19674,Concesionario Sur
+camilo ordóñez,Mustang,Ford,2012,7745,Concesionario Andino
+maría gómez,Ranger,Nissan,2020,8665,Concesionario Oriental
+carlos díaz,Hilux,Mazda,2010,-11932,Concesionario Andino
+ana lópez,Sentra,HONDA,2019,47494,Concesionario Sur
+laura torres,Civic,Ford,2009,29351,Concesionario Norte
+pedro ruiz,Mazda 3,Mazda,2016,-2176,Concesionario Sur
+laura torres,Civic,Renault,2009,-8703,Concesionario Norte
+sofía castro,Corolla,Mazda,2020,39341,C. Central
+pedro ruiz,Kia Rio,Ford,2025,11778,Concesionario Oriental
+camilo ordóñez,Mazda 3,Honda,2009,-8351,Concesionario Andino
+miguel ángel,Sentra,Mazda,2011,-15947,Concesionario Oriental
+pedro ruiz,Sentra,TOYOTA,2009,38888,Concesionario Oriental
+pedro ruiz,Mazda 3,Nissan,2021,-7380,Concesionario Oriental
+maría gómez,Mustang,Kia,2019,43782,Concesionario Norte
+camilo ordóñez,Sentra,Toyta,2019,-16865,Concesionario Andino
+laura torres,Ranger,Renault,2006,17868,Concesionario Sur
+andrés ramírez,Mustang,Chevrolet,2022,-14437,consesionario central
+ana lópez,Civic,TOYOTA,2007,31042,Concesionario Norte
+maría gómez,CX5,Honda,2012,-4126,Concesionario Norte
+maría gómez,Corolla,Chevrolet,2010,-11915,Concesionario Sur
+miguel ángel,Ranger,Kia,2012,-5244,Concesionario Andino
+carlos díaz,Clio,Toyota,2022,10935,Concesionario Central
+pedro ruiz,Hilux,Renault,2014,42810,Concesionario Sur
+camilo ordóñez,CX5,Nissan,2014,-5842,Concesionario Andino
+maría gómez,Mustang,Kia,2008,-13830,Concesionario Oriental
+carlos díaz,CX5,Chevrolet,2006,47682,Concesionario Norte
+ana lópez,Ranger,Chevrolet,2010,-6697,Concesionario Norte
+maría gómez,Kia Rio,Chevrolet,2019,22333,Concesionario Andino
+carlos díaz,Civic,Nissan,2022,-6147,Concesionario Sur
+ana lópez,Hilux,Toyta,2008,-15333,C. Central
+pedro ruiz,Corolla,Renault,2024,-10369,consesionario central
+sofía castro,Civic,Chevrolet,2019,38926,Concesionario Andino
+ana lópez,Hilux,Nissan,2011,-15950,Concesionario Sur
+laura torres,Mustang,Kia,2013,-4992,Concesionario Norte
+sofía castro,Hilux,Hnda,2009,-17988,Concesionario Sur
+miguel ángel,Clio,Renault,2015,13349,Concesionario Central
+miguel ángel,Ranger,TOYOTA,2035,5178,consesionario central
+ana lópez,Kia Rio,Nissan,2005,-18165,Concesionario Andino
+juan pérez,Civic,Kia,2019,9611,Concesionario Andino
+pedro ruiz,Civic,Mazda,2015,39065,Concesionario Norte
+ana lópez,Sentra,Honda,2019,26438,Concesionario Central
+ana lópez,Civic,Nissan,2016,-10982,Concesionario Sur
+camilo ordóñez,Clio,HONDA,2016,-19277,Concesionario Oriental
+sofía castro,CX5,Nissan,2010,16919,Concesionario Sur
+laura torres,Sentra,Honda,2018,-2704,Concesionario Sur
+miguel ángel,Ranger,Ford,2006,32678,Concesionario Andino
+camilo ordóñez,Mazda 3,Renault,2019,-19474,Concesionario Norte
+laura torres,Clio,Nissan,2019,29319,Concesionario Sur
+laura torres,Civic,Renault,2035,-2450,Concesionario Sur
+camilo ordóñez,Mazda 3,Toyota,2025,30559,Concesionario Norte
+laura torres,Hilux,Mazda,2006,33235,Concesionario Oriental
+maría gómez,CX5,TOYOTA,2012,9388,Concesionario Andino
+miguel ángel,Mustang,Hnda,2023,-19151,Concesionario Oriental
+laura torres,Mustang,Mazda,2014,24230,consesionario central
+andrés ramírez,Hilux,Nissan,2012,38928,Concesionario Oriental
+juan pérez,Mustang,Chevrolet,2008,44608,Concesionario Oriental
+ana lópez,Mazda 3,Ford,2011,47573,Concesionario Sur
+camilo ordóñez,Kia Rio,Toyota,2010,49712,consesionario central
+andrés ramírez,Clio,HONDA,2020,-5403,Concesionario Sur
+carlos díaz,Hilux,Nissan,2011,-6737,Concesionario Andino
+carlos díaz,Civic,Ford,2008,27818,Concesionario Oriental
+maría gómez,Ranger,Nissan,2019,-12595,Concesionario Norte
+andrés ramírez,Clio,Kia,2008,-19992,Concesionario Norte
+miguel ángel,Kia Rio,Mazda,1995,45028,consesionario central
+carlos díaz,Mustang,Ford,2018,49463,Concesionario Norte
+ana lópez,Mazda 3,Mazda,2021,16030,Concesionario Andino
+carlos díaz,Kia Rio,Nissan,2020,47220,Concesionario Sur
+camilo ordóñez,Mustang,Nissan,2015,36146,Concesionario Norte
+carlos díaz,Sentra,Kia,2017,49813,C. Central
+camilo ordóñez,Mazda 3,Honda,2013,-8903,consesionario central
+camilo ordóñez,Kia Rio,Renault,2007,23851,Concesionario Norte
+laura torres,Hilux,Chevrolet,2021,20020,Concesionario Norte
+carlos díaz,Ranger,Chevrolet,2009,26101,Concesionario Andino
+sofía castro,Corolla,Chevrolet,2013,21191,Concesionario Sur
+miguel ángel,Mustang,Toyta,2025,14837,Concesionario Norte
+maría gómez,Civic,Toyota,2035,-14984,Concesionario Oriental
+juan pérez,Kia Rio,Renault,2017,11465,Concesionario Oriental
+andrés ramírez,Kia Rio,Kia,2005,23055,C. Central
+camilo ordóñez,Corolla,HONDA,1995,42683,Concesionario Andino
+pedro ruiz,Civic,Mazda,2024,5607,Concesionario Sur
+sofía castro,Corolla,Renault,2010,26415,Concesionario Oriental
+carlos díaz,Corolla,Mazda,2018,-15013,Concesionario Sur
+sofía castro,Civic,Hnda,2021,-4421,C. Central
+camilo ordóñez,Hilux,Nissan,2035,-14831,consesionario central
+maría gómez,Mustang,Kia,2005,44731,Concesionario Norte
+camilo ordóñez,Mustang,Ford,2012,38699,Concesionario Norte
+sofía castro,Ranger,Renault,2035,5937,Concesionario Andino
+maría gómez,Mustang,TOYOTA,2024,31365,Concesionario Norte
+sofía castro,CX5,Renault,2024,-18275,Concesionario Andino
+sofía castro,Hilux,Honda,2035,-1260,Concesionario Sur
+miguel ángel,Civic,HONDA,2009,-3994,Concesionario Andino
+pedro ruiz,Mustang,Kia,2023,-17925,C. Central
+pedro ruiz,Kia Rio,Toyota,2012,-17916,Concesionario Andino
+sofía castro,Hilux,Renault,2016,-1095,Concesionario Andino
+pedro ruiz,CX5,Mazda,2016,37406,Concesionario Norte
+camilo ordóñez,Civic,Chevrolet,2006,-12953,Concesionario Andino
+maría gómez,Clio,HONDA,2021,9648,Concesionario Andino
+pedro ruiz,Ranger,Kia,2022,28155,Concesionario Oriental
+miguel ángel,Ranger,Chevrolet,2024,33230,Concesionario Norte
+camilo ordóñez,CX5,Mazda,2009,-12348,Concesionario Sur
+juan pérez,Kia Rio,Ford,2022,5438,Concesionario Andino
+juan pérez,Ranger,Ford,1995,45316,Concesionario Sur
+maría gómez,Sentra,Mazda,2009,22783,Concesionario Norte
+laura torres,Ranger,Nissan,2025,11515,Concesionario Norte
+miguel ángel,Mustang,Chevrolet,2025,-19728,Concesionario Norte
+camilo ordóñez,Hilux,Toyota,2014,11288,Concesionario Andino
+laura torres,Mazda 3,Renault,2020,-17235,Concesionario Oriental
+carlos díaz,Ranger,Kia,2017,27644,Concesionario Sur
+camilo ordóñez,Mazda 3,Renault,2024,14406,Concesionario Andino
+andrés ramírez,CX5,Renault,2013,11206,Concesionario Andino
+andrés ramírez,Mazda 3,Honda,2009,33023,Concesionario Andino
+laura torres,Hilux,TOYOTA,2006,-6135,Concesionario Norte
+andrés ramírez,Corolla,Kia,2016,31587,Concesionario Central
+carlos díaz,CX5,Mazda,2035,23043,Concesionario Central
+andrés ramírez,Ranger,Ford,2018,39591,Concesionario Sur
+camilo ordóñez,CX5,Ford,2006,8015,Concesionario Oriental
+sofía castro,Sentra,Ford,2019,5182,Concesionario Andino
+miguel ángel,Kia Rio,Kia,2013,-6291,Concesionario Oriental
+laura torres,Kia Rio,Renault,2012,-18195,Concesionario Sur
+andrés ramírez,Sentra,Honda,2009,-9674,Concesionario Sur
+miguel ángel,Civic,Ford,2035,8852,Concesionario Norte
+miguel ángel,Kia Rio,Kia,2012,17262,Concesionario Sur
+camilo ordóñez,Civic,Nissan,2014,13424,Concesionario Sur
+carlos díaz,Mustang,Ford,2007,35037,Concesionario Oriental
+sofía castro,Mustang,Renault,2023,-16484,Concesionario Norte
+sofía castro,Sentra,Ford,2015,20511,Concesionario Sur
+camilo ordóñez,Corolla,Honda,2024,21965,consesionario central
+miguel ángel,Sentra,Kia,2011,35982,Concesionario Andino
+ana lópez,Hilux,Renault,2022,35057,Concesionario Central
+andrés ramírez,Sentra,Chevrolet,2008,-4673,C. Central
+sofía castro,Mustang,TOYOTA,2019,-8725,Concesionario Oriental
+juan pérez,Ranger,Toyta,2017,-3800,consesionario central
+maría gómez,Hilux,HONDA,2005,37139,Concesionario Oriental
+carlos díaz,Mazda 3,Chevrolet,2035,-6001,Concesionario Oriental
+juan pérez,CX5,Chevrolet,2007,-14942,Concesionario Sur
+ana lópez,CX5,Renault,2007,-1014,Concesionario Sur
+miguel ángel,Hilux,Ford,2018,-16851,Concesionario Norte
+andrés ramírez,CX5,Renault,2009,-12015,Concesionario Norte
+ana lópez,CX5,Honda,2021,-19702,consesionario central
+carlos díaz,Civic,Nissan,2015,-6519,Concesionario Andino
+ana lópez,CX5,Mazda,2019,21773,Concesionario Sur
+miguel ángel,Kia Rio,Mazda,2007,47327,Concesionario Andino
+carlos díaz,Hilux,Chevrolet,2007,26028,Concesionario Oriental
+miguel ángel,Clio,Kia,2014,16088,Concesionario Oriental
+camilo ordóñez,Sentra,Ford,2010,24595,Concesionario Andino
+juan pérez,Ranger,Chevrolet,2025,5671,consesionario central
+ana lópez,CX5,Chevrolet,2019,40049,Concesionario Andino
+camilo ordóñez,Clio,Toyta,2010,24807,Concesionario Norte
+laura torres,CX5,HONDA,2021,18456,Concesionario Oriental
+pedro ruiz,Clio,Kia,2019,23532,Concesionario Andino
+laura torres,Mazda 3,Honda,2035,-12457,Concesionario Norte
+maría gómez,Sentra,Ford,1995,10026,Concesionario Andino
+pedro ruiz,Corolla,Honda,2008,31474,Concesionario Andino
+ana lópez,Kia Rio,Renault,2023,-16019,Concesionario Andino
+camilo ordóñez,Ranger,Nissan,2016,11955,Concesionario Sur
+laura torres,Mustang,Nissan,2011,-4177,Concesionario Norte
+camilo ordóñez,Mazda 3,Mazda,2016,-18651,Concesionario Sur
+camilo ordóñez,Corolla,Chevrolet,2009,5559,Concesionario Norte
+laura torres,Corolla,Chevrolet,2020,37241,Concesionario Sur
+camilo ordóñez,Ranger,Kia,2022,-15441,Concesionario Oriental
+pedro ruiz,Ranger,Renault,2009,46754,C. Central
+sofía castro,Hilux,Toyota,2007,-12693,consesionario central
+ana lópez,Mustang,Toyota,2011,24481,Concesionario Andino
+pedro ruiz,Ranger,Toyta,2015,42533,Concesionario Oriental
+camilo ordóñez,Clio,Renault,2017,-3379,Concesionario Oriental
+camilo ordóñez,Mustang,Chevrolet,2013,-3530,Concesionario Sur
+sofía castro,Ranger,Toyota,2015,-9052,Concesionario Oriental
+sofía castro,Mazda 3,Hnda,2011,-3219,Concesionario Sur
+andrés ramírez,Sentra,Renault,1995,-5617,Concesionario Norte
+ana lópez,Civic,Hnda,2019,47822,Concesionario Oriental
+maría gómez,CX5,HONDA,2017,-12506,Concesionario Norte
+laura torres,Kia Rio,Kia,2013,-13896,Concesionario Oriental
+pedro ruiz,Civic,Chevrolet,2019,-12909,Concesionario Central
+andrés ramírez,Ranger,HONDA,2011,-4514,Concesionario Norte
+laura torres,Mustang,Mazda,2007,-4560,consesionario central
+carlos díaz,Civic,Nissan,2035,7579,Concesionario Sur
+pedro ruiz,Mustang,Hnda,2016,34448,Concesionario Norte
+andrés ramírez,Mazda 3,Hnda,2014,-7619,Concesionario Andino
+camilo ordóñez,Sentra,Chevrolet,2025,-14909,Concesionario Andino
+sofía castro,Mustang,Toyta,2013,29163,Concesionario Sur
+pedro ruiz,Kia Rio,Nissan,2023,-15304,Concesionario Central
+sofía castro,Civic,Ford,2017,-7182,C. Central
+camilo ordóñez,Civic,Hnda,2020,7775,Concesionario Andino
+ana lópez,Ranger,Kia,2018,-15554,consesionario central
+juan pérez,Civic,Chevrolet,2016,-12452,Concesionario Norte
+miguel ángel,Clio,Chevrolet,2020,18563,Concesionario Sur
+pedro ruiz,Corolla,Mazda,1995,-10422,Concesionario Andino
+maría gómez,Hilux,Mazda,2024,36857,Concesionario Andino
+pedro ruiz,Clio,Nissan,2008,49475,Concesionario Sur
+carlos díaz,Kia Rio,HONDA,2025,-3130,Concesionario Oriental
+andrés ramírez,Ranger,Hnda,2010,19763,C. Central
+carlos díaz,Mustang,Toyota,2008,-17009,Concesionario Sur
+carlos díaz,Clio,Kia,2008,-7124,Concesionario Norte
+pedro ruiz,Clio,Kia,2016,-18366,consesionario central
+maría gómez,Ranger,Mazda,2021,-4661,Concesionario Sur
+juan pérez,Kia Rio,Nissan,2025,-11353,Concesionario Oriental
+laura torres,Clio,Kia,2017,-12042,Concesionario Norte
+maría gómez,Mazda 3,Ford,2020,-18326,Concesionario Norte
+maría gómez,Hilux,Toyota,2007,-5828,Concesionario Oriental
+ana lópez,CX5,Hnda,2023,-3063,Concesionario Andino
+sofía castro,Sentra,Renault,2022,18915,Concesionario Andino
+camilo ordóñez,Corolla,Renault,2023,-17115,Concesionario Norte
+maría gómez,Sentra,Hnda,2010,14539,Concesionario Oriental
+miguel ángel,Ranger,Toyta,2010,-6258,Concesionario Norte
+miguel ángel,Sentra,Ford,2008,32107,C. Central
+andrés ramírez,Mazda 3,Nissan,2006,-14368,Concesionario Oriental
+ana lópez,CX5,Honda,2021,-9429,Concesionario Oriental
+carlos díaz,Ranger,Hnda,2010,-2598,Concesionario Norte
+ana lópez,Sentra,Hnda,2010,-9408,Concesionario Andino
+maría gómez,Sentra,Ford,2018,18213,Concesionario Sur
+camilo ordóñez,Sentra,Kia,2021,29627,Concesionario Andino
+miguel ángel,Corolla,HONDA,2009,37301,Concesionario Oriental
+ana lópez,Ranger,Renault,2008,43607,Concesionario Sur
+laura torres,Sentra,Nissan,2019,12637,Concesionario Andino
+camilo ordóñez,Kia Rio,Toyta,2014,37321,Concesionario Sur
+andrés ramírez,Mustang,Toyota,2014,22715,Concesionario Oriental
+juan pérez,Hilux,Chevrolet,2011,20118,Concesionario Andino
+camilo ordóñez,Ranger,Mazda,2025,38823,Concesionario Andino
+ana lópez,Ranger,Ford,2009,-2677,Concesionario Oriental
+laura torres,Mazda 3,TOYOTA,2016,-18527,Concesionario Sur
+miguel ángel,Kia Rio,Renault,2023,-18812,Concesionario Andino
+camilo ordóñez,Hilux,Renault,2025,38322,Concesionario Sur
+maría gómez,Sentra,Ford,2024,-13501,consesionario central
+miguel ángel,Sentra,Renault,2009,-5018,Concesionario Central
+camilo ordóñez,Kia Rio,Honda,2013,13460,consesionario central
+pedro ruiz,Clio,Toyota,2016,-19383,Concesionario Oriental
+sofía castro,Clio,Nissan,2015,29536,Concesionario Andino
+miguel ángel,Kia Rio,Renault,2016,49449,Concesionario Norte
+maría gómez,CX5,Ford,2022,46028,Concesionario Andino
+ana lópez,Civic,Mazda,2024,-10658,C. Central
+maría gómez,CX5,Renault,2020,-13371,Concesionario Central
+maría gómez,Ranger,Kia,2021,-11040,Concesionario Norte
+camilo ordóñez,Sentra,Renault,2021,43515,Concesionario Norte
+camilo ordóñez,Clio,Nissan,2010,31225,Concesionario Norte
+ana lópez,Kia Rio,Nissan,2022,12570,Concesionario Sur
+ana lópez,Corolla,Kia,2022,-12269,Concesionario Oriental
+pedro ruiz,Mazda 3,Chevrolet,2015,42942,Concesionario Norte
+maría gómez,Mustang,Renault,2006,46344,Concesionario Norte
+miguel ángel,Corolla,Chevrolet,1995,-15032,Concesionario Norte
+pedro ruiz,Sentra,Renault,2020,10192,Concesionario Andino
+andrés ramírez,Sentra,Renault,2010,32653,consesionario central
+andrés ramírez,Corolla,TOYOTA,2013,7845,Concesionario Sur
+camilo ordóñez,Corolla,Renault,2021,-11079,consesionario central
+juan pérez,Hilux,Toyota,2011,-10603,Concesionario Oriental
+andrés ramírez,CX5,TOYOTA,2015,14310,Concesionario Norte
+maría gómez,Kia Rio,Honda,2022,-11416,consesionario central
+sofía castro,Mazda 3,Renault,2011,-10873,Concesionario Sur
+sofía castro,CX5,Kia,2018,38660,Concesionario Sur
+laura torres,Mazda 3,Chevrolet,2025,37422,Concesionario Oriental
+carlos díaz,Hilux,Nissan,1995,17964,C. Central
+andrés ramírez,Mustang,Nissan,2017,20255,Concesionario Central
+juan pérez,Sentra,Kia,2035,-9464,Concesionario Sur
+juan pérez,Mustang,Kia,2007,10708,C. Central
+camilo ordóñez,Ranger,Kia,2013,45982,Concesionario Sur
+andrés ramírez,Mustang,Renault,2020,-12068,Concesionario Oriental
+miguel ángel,Clio,Ford,2023,-16479,Concesionario Oriental
+ana lópez,Mazda 3,Chevrolet,2021,25025,Concesionario Oriental
+maría gómez,Ranger,Kia,2009,40115,Concesionario Oriental
+sofía castro,Ranger,Nissan,2005,20094,Concesionario Sur
+pedro ruiz,Corolla,Chevrolet,2023,-16767,Concesionario Andino
+maría gómez,Civic,Ford,2007,-3791,Concesionario Central
+ana lópez,Sentra,Toyota,2035,-2060,Concesionario Andino
+andrés ramírez,Mazda 3,Hnda,2011,-4967,consesionario central
+camilo ordóñez,Clio,Toyta,2035,-1189,Concesionario Sur
+laura torres,Sentra,Mazda,2009,28015,Concesionario Oriental
+maría gómez,Kia Rio,Mazda,2018,15986,Concesionario Andino
+andrés ramírez,Ranger,Kia,2022,-1818,Concesionario Andino
+ana lópez,Mazda 3,Ford,2025,-7544,Concesionario Norte
+laura torres,Mustang,Renault,2015,44950,Concesionario Central
+pedro ruiz,Mazda 3,Kia,2005,31662,Concesionario Andino
+maría gómez,Corolla,Ford,2023,38277,Concesionario Norte
+andrés ramírez,Ranger,Chevrolet,2021,10398,Concesionario Oriental
+laura torres,Mustang,Chevrolet,2006,-8078,Concesionario Oriental
+pedro ruiz,Civic,Chevrolet,2022,-2571,Concesionario Sur
+camilo ordóñez,Corolla,Chevrolet,2017,26286,Concesionario Sur
+juan pérez,Kia Rio,Nissan,2007,-9379,Concesionario Norte
+laura torres,Kia Rio,Nissan,2020,33593,Concesionario Oriental
+sofía castro,Kia Rio,Kia,2017,-18974,Concesionario Central
+maría gómez,Kia Rio,Ford,2025,-7709,Concesionario Sur
+maría gómez,Mazda 3,Ford,2010,18353,Concesionario Oriental
+camilo ordóñez,Mustang,Toyta,2010,-4516,Concesionario Sur
+miguel ángel,CX5,Nissan,2014,34376,Concesionario Norte
+camilo ordóñez,Mustang,Renault,2016,-3338,Concesionario Oriental

@@ -1,0 +1,201 @@
+nombre,materia,universidad,calificacion
+carlos ruiz,matematicas,Universidad Distrital,2.1
+ana gomez,Quimica, UCC ,2.2
+ Maria Ruiz ,Fisica,Universidad de Nariño,3.8
+ carlos ruiz ,Quimica,Universidad del Cauca ,2.7
+daniela mora,Lenguaje,Universidad Cooperativa de Colombia,3.3
+Luisa Castro,Fisica,Univalle,1.8
+Maria Ruiz,Matemáticas,Universidad de Nariño,1.9
+Miguel Angel,Matematicas,Universidad del Cauca ,2.0
+Mia Torres,Lenguaje,Universidad Cooperativ de Colombia,4.6
+claudia arias,Quimica,Universidad Distrital ,2.0
+Andres Marin,Matematicas,Universidad de Nariño,4.0
+Felipe Rojas,Fisica,Universidad Distrital,0.1
+Carlos Ruiz,Lenguaje ,Universidad Distrital ,0.0
+Maria Ruiz,Matematicas,Universidad Nacional de Colombia,2.5
+pedro sanchez,Quimica,Universidad Distrital,0.1
+Camilo Ordoñez,Matematicas,U. Cauca,2.4
+Mia Torres,Química,Universidad de Nariño,4.4
+Felipe Rojas,Historia,Universidad del Valle,3.2
+Claudia Arias,matematicas,Universidad Distrital,2.9
+ana gomez,Matematicas ,Universidad del Cauca,1.4
+Andres Torres,Quimica,Universidad de Nariño,4.0
+pedro sanchez,Fisica,Universidad Cooperativa de Colombia,3.3
+carlos ruiz,Matematicas,U. Nariñio,0.7
+Laura López,Fisica,UCC,0.3
+Miguel Angel,Historia,Universidad Cooperativ de Colombia,4.3
+ luis perez ,Fisica, UCC ,2.4
+Pedro Sanchez,Quimica,Univalle,2.9
+Sofia Martínez,matematicas,Universidad del Cauca,3.4
+Andres Marin,Quimica,Universidad Distrital,3.3
+Jorge Vivas,Lenguaje ,Universidad Distrital ,3.2
+Claudia Arias,Química,Universidad Distrital,0.4
+Pedro Sanchez,Matematicas,Universidad Nacional de Colombia,2.2
+Miguel Angel,Quimica, UCC ,3.3
+Juan Diaz,Historia,U. Nariñio,1.0
+Maria Ruiz,Matematicas,Universidad Distrital ,0.2
+Jose Ramirez,Química,Universidad del Valle,0.6
+Juan Diaz,Historia,Universidad del Cauca,4.5
+Luis Perez,matematicas,Universidad Distrital,2.0
+Tatiana Perez,Matemáticas,UCC,2.1
+Laura López,Historia,U. Cauca,0.2
+Andres Torres,Lenguaje,UCC,0.1
+Pedro Sanchez,Historia ,Universidad Distrital,4.9
+ Miguel Angel ,Lenguaje,Universidad NAL de Colombia,
+Felipe Rojas,Quimica,U. Nariñio,3.5
+Ana Gomez,Historia,Universidad del Cauca,4.6
+Tatiana Perez,Lenguaje,Universidad Cooperativa de Colombia,2.0
+Luisa Castro,Fisica,Universidad de Nariño,1.5
+Miguel Angel,Lenguaje ,Universidad del Valle,2.6
+Laura López,Quimica,UCC,1.2
+Luisa Castro,Matematicas,Universidad Distrital,0.4
+Felipe Rojas,Fisica,Universidad de Nariño,3.4
+Carlos Ruiz,Quimica,Universidad Distrital,4.2
+claudia arias,Quimica,UCC,3.1
+Sofia Martínez,Historia,Universidad del Valle,3.8
+Maria Ruiz,Lenguaje,Universidad Cooperativa de Colombia,1.4
+ Jose Ramirez ,Fisíca,Universidad Cooperativa de Colombia,2.1
+Jose Ramirez,Fisíca,UCC,3.5
+ Jorge Vivas ,Fisica,UCC,3.7
+Miguel Angel,Lenguaje,Universidad del Cauca,3.3
+Daniela Mora,Quimica,Universidad del Valle,3.3
+Mia Torres,Matematicas,Univalle,1.6
+Daniela Mora,Matematicas,Universidad Cooperativa de Colombia,5.0
+ Camilo Ordoñez ,Matematicas,Universidad de Nariño,0.1
+Juan Diaz,Matematicas,Universidad Nacional de Colombia,0.8
+Tatiana Perez,Historia,Universidad del Cauca,4.6
+Jorge Vivas,Historia,U. Nariñio,3.9
+Tatiana Perez,Matematicas,Universidad del Valle,0.3
+jose ramirez,Fisica,Universidad Cooperativa de Colombia,2.3
+Juan Diaz,Lenguaje,Universidad Distrital,2.3
+Jorge Vivas,Matematicas,Universidad Cooperativ de Colombia,2.3
+Tatiana Perez,Lenguaje,U. Nariñio,1.3
+Maria Ruiz,Matematicas ,Universidad de Nariño,3.6
+Andres Torres,Fisica,Universidad del Cauca,1.1
+Andres Marin,Quimica,Universidad Cooperativa de Colombia,1.8
+Claudia Arias,Matematicas,Universidad Cooperativa de Colombia,3.8
+laura lópez,Historia ,UCC,1.1
+Laura López,Matematicas ,Universidad Distrital,4.7
+ andres torres ,Química,Universidad de Nariño,1.3
+ andres torres ,Quimica,Universidad del Cauca,4.1
+luisa castro,Fisica,UCC,3.9
+Daniela Mora,Fisica,Universidad Distrital,4.8
+Carlos Ruiz,matematicas,Universidad de Narino,0.8
+Felipe Rojas,Matematicas,Universidad NAL de Colombia,2.3
+Andres Marin,Historia,Universidad Distrital,0.7
+ Maria Ruiz ,Historia ,UCC,1.4
+Carlos Ruiz,Lenguaje,Universidad del Valle,3.0
+Felipe Rojas,Matematicas,UCC,2.9
+Ana Gomez,Matematicas ,Universidad de Nariño,3.3
+maria ruiz,Fisica,Universidad del Valle,1.7
+Carlos Ruiz,Lenguaje,Universidad del Valle,2.8
+claudia arias,Fisíca,UCC,3.3
+ Miguel Angel ,Quimica,Universidad Cooperativa de Colombia,0.3
+Maria Ruiz,Fisica,U. Nariñio,1.6
+ Ana Gomez ,Matematicas,Universidad del Cauca,0.8
+Luisa Castro,Fisica, UCC ,1.0
+Tatiana Perez,Lenguaje,UCC,4.7
+ Sofia Martínez ,Quimica,Universidad Cooperativa de Colombia,0.7
+Miguel Angel,Fisica,Universidad Nacional de Colombia,4.9
+Andres Marin,Matematicas,Universidad del Valle,4.1
+Daniela Mora,Historia,Universidad del Cauca,4.8
+Jose Ramirez,Quimica,Universidad del Cauca,2.0
+juan diaz,Fisíca,UCC,3.4
+Miguel Angel,Fisica,Universidad del Cauca,1.2
+Luisa Castro,Matematicas,Universidad Cooperativa de Colombia,2.2
+ Luisa Castro ,Lenguaje,Universidad del Valle,2.7
+Jorge Vivas,Fisíca,Universidad de Nariño,2.9
+Andres Marin,Matematicas ,Universidad del Valle,3.4
+laura lópez,Lenguaje,Universidad del Valle,2.3
+luisa castro,Historia,Universidad Nacional de Colombia,5.0
+luisa castro,Matematicas,Universidad Cooperativa de Colombia,4.9
+Tatiana Perez,Historia,Universidad Nacional de Colombia,1.0
+Maria Ruiz,Historia,Universidad Cooperativa de Colombia,1.5
+claudia arias,Historia ,Universidad del Valle,0.7
+Miguel Angel,Lenguaje,Universidad Nacional de Colombia,4.7
+Luisa Castro,matematicas,U. Nariñio,3.6
+Daniela Mora,Fisica, UCC ,1.8
+Maria Ruiz,Matematicas,Universidad del Valle,
+Jose Ramirez,Química,Universidad Nacional de Colombia,0.6
+Luis Perez,Matematicas, UCC ,2.3
+Miguel Angel,Fisíca,UCC,2.0
+maria ruiz,Historia,Universidad del Cauca,1.8
+camilo ordoñez,Fisica,U. Nariñio,3.0
+ana gomez,Quimica, UCC ,1.1
+Andres Marin,Matematicas,Universidad de Narino,2.7
+laura lópez,Lenguaje ,Universidad de Nariño,0.1
+maria ruiz,Matematicas,UCC,3.0
+Claudia Arias,Historia ,Universidad del Cauca,2.4
+Daniela Mora,Fisica,U. Cauca,0.7
+Juan Diaz,Lenguaje,Universidad Distrital,2.3
+Tatiana Perez,Matematicas,Universidad de Nariño,4.1
+ Daniela Mora ,Lenguaje,Universidad de Nariño,2.4
+ Mia Torres ,Lenguaje ,Universidad Distrital,4.8
+Miguel Angel,Fisica,Universidad Cooperativa de Colombia,1.4
+Luisa Castro,Química,U. Cauca,2.8
+Carlos Ruiz,Quimica,UCC,3.4
+miguel angel,Lenguaje,Universidad NAL de Colombia,1.5
+Jose Ramirez,Fisíca,Universidad del Cauca ,2.7
+Daniela Mora,Lenguaje,Universidad Distrital,4.4
+juan diaz,Lenguaje,Universidad del Valle,2.2
+Maria Ruiz,Matematicas,Universidad Cooperativ de Colombia,1.5
+Andres Marin,Historia ,UCC,1.3
+jose ramirez,Historia,Universidad Cooperativa de Colombia,2.8
+camilo ordoñez,Matematicas ,Universidad del Cauca,2.9
+Jorge Vivas,Fisíca,Univalle,4.7
+Claudia Arias,matematicas,Universidad Distrital ,2.0
+Luisa Castro,Matematicas,Universidad del Cauca,1.0
+Camilo Ordoñez,Historia,Universidad de Narino,0.9
+Juan Diaz,Química,Universidad Distrital,2.2
+Jorge Vivas,Lenguaje,U. Cauca,3.2
+Maria Ruiz,Química,Universidad del Cauca,1.4
+Mia Torres,Quimica,Universidad Cooperativa de Colombia,2.2
+Jorge Vivas,Historia,Universidad del Valle,4.5
+ Jose Ramirez ,Matematicas,Universidad Cooperativ de Colombia,2.6
+tatiana perez,Fisíca,Universidad Cooperativa de Colombia,3.9
+ jose ramirez ,Lenguaje,Universidad de Narino,2.9
+Juan Diaz,Fisica,U. Cauca,1.9
+Jose Ramirez,Quimica,Universidad Distrital ,0.1
+luisa castro,Fisica,Universidad de Narino,1.5
+Carlos Ruiz,Quimica,Univalle,3.1
+Tatiana Perez,Quimica,Universidad de Nariño,0.2
+Camilo Ordoñez,Lenguaje,UCC,2.7
+Luisa Castro,Historia,Universidad Distrital,2.3
+Luisa Castro,Historia,UCC,4.4
+Luis Perez,Matematicas,Universidad Distrital,1.4
+Laura López,Fisíca,U. Nariñio,4.4
+Ana Gomez,Fisica,Universidad Nacional de Colombia,1.6
+Carlos Ruiz,Historia,Universidad Cooperativ de Colombia,0.7
+ Andres Torres ,Historia ,Universidad de Narino,3.6
+Sofia Martínez,matematicas,Universidad Distrital ,3.1
+mia torres,Matematicas,Universidad Distrital,0.7
+felipe rojas,Historia,Universidad del Cauca,1.8
+Sofia Martínez,Matematicas,Universidad del Valle,120.0
+ Camilo Ordoñez ,Lenguaje,U. Cauca,3.7
+jose ramirez,Historia,Universidad Cooperativa de Colombia,3.5
+ Laura López ,Fisica,U. Nariñio,-5.0
+Luis Perez,Quimica,Universidad del Cauca,1.0
+ Camilo Ordoñez ,Lenguaje,Univalle,2.0
+Claudia Arias,Fisica,Universidad Nacional de Colombia,2.6
+ Mia Torres ,Historia,Universidad Nacional de Colombia,1.6
+Luisa Castro,Fisica,Universidad del Cauca,4.6
+Tatiana Perez,Matematicas,Universidad Distrital ,4.0
+Laura López,Fisica,U. Cauca,3.2
+Camilo Ordoñez,Fisica,Universidad Nacional de Colombia,0.4
+Juan Diaz,Historia,Universidad del Cauca,2.5
+Daniela Mora,Fisica,Universidad NAL de Colombia,5.0
+pedro sanchez,Fisica,UCC,4.2
+Jose Ramirez,Lenguaje,UCC,3.5
+Laura López,Matematicas,Universidad de Nariño,0.1
+Miguel Angel,Historia,Universidad del Cauca,2.0
+Andres Torres,Matematicas,Univalle,2.2
+Sofia Martínez,Quimica,Universidad de Narino,4.6
+Luis Perez,Historia,Universidad Cooperativa de Colombia,4.7
+Sofia Martínez,Historia ,Universidad NAL de Colombia,0.5
+Laura López,Lenguaje ,Universidad Distrital,-5.0
+mia torres,Historia,Universidad del Valle,0.2
+Miguel Angel,Fisica,U. Cauca,0.8
+Felipe Rojas,Lenguaje,Universidad Nacional de Colombia,4.3
+daniela mora,Lenguaje,U. Cauca,1.2
+carlos ruiz,Fisica,Universidad de Narino,4.7
+jose ramirez,Fisica,Universidad Nacional de Colombia,0.5
